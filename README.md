@@ -1,4 +1,4 @@
-<!-- GitHub Profile README for nam-techie -->
+<!-- GitHub Profile README for quanns12 -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Welcome%20to%20my%20Profile&fontSize=40&fontColor=fff&animation=fadeIn" width="100%" />
 </div>
@@ -18,9 +18,9 @@
 </p>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=nam-techie&style=for-the-badge&color=brightgreen" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/nam-techie?style=for-the-badge&color=blue" alt="Followers" />
-<img src="https://img.shields.io/github/stars/nam-techie?style=for-the-badge&color=yellow" alt="Stars" />
+<img src="https://komarev.com/ghpvc/?username=quanns12&style=for-the-badge&color=brightgreen" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/quanns12?style=for-the-badge&color=blue" alt="Followers" />
+<img src="https://img.shields.io/github/stars/quanns12?style=for-the-badge&color=yellow" alt="Stars" />
 </div>
 
 ---
@@ -69,13 +69,13 @@ challenge: "I am doing the #100DaysOfCode challenge focused on frontend with Jav
  <td width="50%">
    <h3 align="center">Trọ Uni</h3>
    <div align="center">
-<a href="https://github.com/nam-techie/taranify_color" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nam-techie&repo=taranify_color&theme=radical" alt="Taranify Color" />
+<a href="https://github.com/quanns12/taranify_color" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=quanns12&repo=taranify_color&theme=radical" alt="Taranify Color" />
 </a>
 <br>
 <br>
 <p>
-<a href="https://github.com/nam-techie/taranify_color" target="_blank">
+<a href="https://github.com/quanns12/taranify_color" target="_blank">
  <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
 </a>
 <a href="https://tro-uni.vercel.app" target="_blank">
@@ -89,13 +89,13 @@ challenge: "I am doing the #100DaysOfCode challenge focused on frontend with Jav
  <td width="50%">
    <h3 align="center">🐟 Koi Veterinary Service</h3>
    <div align="center">
-     <a href="https://github.com/nam-techie/SE1872_KoiVeterinaryService" target="_blank">
-       <img src="https://github-readme-stats.vercel.app/api/pin/?username=nam-techie&repo=SE1872_KoiVeterinaryService&theme=radical" alt="Koi Veterinary Service" />
+     <a href="https://github.com/quanns12/SE1872_KoiVeterinaryService" target="_blank">
+       <img src="https://github-readme-stats.vercel.app/api/pin/?username=quanns12&repo=SE1872_KoiVeterinaryService&theme=radical" alt="Koi Veterinary Service" />
      </a>
      <br>
      <br>
      <p>
-       <a href="https://github.com/nam-techie/SE1872_KoiVeterinaryService" target="_blank">
+       <a href="https://github.com/quanns12/SE1872_KoiVeterinaryService" target="_blank">
          <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
        </a>
      </p>
@@ -108,13 +108,13 @@ challenge: "I am doing the #100DaysOfCode challenge focused on frontend with Jav
  <td width="50%">
    <h3 align="center">🧮 Math Util</h3>
    <div align="center">
-     <a href="https://github.com/nam-techie/math-util" target="_blank">
-       <img src="https://github-readme-stats.vercel.app/api/pin/?username=nam-techie&repo=math-util&theme=radical" alt="Math Util" />
+     <a href="https://github.com/quanns12/math-util" target="_blank">
+       <img src="https://github-readme-stats.vercel.app/api/pin/?username=quanns12&repo=math-util&theme=radical" alt="Math Util" />
      </a>
      <br>
      <br>
      <p>
-       <a href="https://github.com/nam-techie/math-util" target="_blank">
+       <a href="https://github.com/quanns12/math-util" target="_blank">
          <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
        </a>
      </p>
@@ -163,7 +163,7 @@ challenge: "I am doing the #100DaysOfCode challenge focused on frontend with Jav
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nam-techie&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=quanns12&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -213,7 +213,7 @@ challenge: "I am doing the #100DaysOfCode challenge focused on frontend with Jav
 <a href="https://www.linkedin.com/in/nam-phương-4a3503309">
 <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/nam-techie">
+<a href="https://github.com/quanns12">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://discordapp.com/users/995694235946844261">
