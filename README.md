@@ -70,7 +70,7 @@ challenge: "I am doing the #100DaysOfCode challenge focused on frontend with Jav
    <h3 align="center">Trọ Uni</h3>
    <div align="center">
 <a href="https://github.com/quanns12/QuanNS" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=quanns12&repo=taranify_color&theme=radical" alt="Taranify Color" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=quanns12&repo=QuanNS&theme=radical" alt="TroUni" />
 </a>
 <br>
 <br>
@@ -90,7 +90,7 @@ challenge: "I am doing the #100DaysOfCode challenge focused on frontend with Jav
    <h3 align="center">🐟 Koi Veterinary Service</h3>
    <div align="center">
      <a href="https://github.com/nntruong112/Koi_Veterinary_FE.git" target="_blank">
-       <img src="https://github-readme-stats.vercel.app/api/pin/?username=quanns12&repo=SE1872_KoiVeterinaryService&theme=radical" alt="Koi Veterinary Service" />
+       <img src="https://github-readme-stats.vercel.app/api/pin/?username=quanns12&repo=Koi_Veterinary_FE&theme=radical" alt="Koi Veterinary Service" />
      </a>
      <br>
      <br>
