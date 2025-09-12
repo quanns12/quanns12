@@ -207,7 +207,7 @@ challenge: "I am doing the #100DaysOfCode challenge focused on frontend with Jav
 ## 📬 Let's Connect!
 
 <div align="center">
-<a href="mailto:nam.dpwork04@gmail.com">
+<a href="mailto:nguyensyquan12012004@gmail.com">
 <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 <a href="https://www.linkedin.com/in/nam-phương-4a3503309">
@@ -216,9 +216,7 @@ challenge: "I am doing the #100DaysOfCode challenge focused on frontend with Jav
 <a href="https://github.com/quanns12">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://discordapp.com/users/995694235946844261">
-<img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
+
 <a href="https://www.instagram.com/pwanm.ie">
 <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
