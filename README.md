@@ -69,13 +69,13 @@ challenge: "I am doing the #100DaysOfCode challenge focused on frontend with Jav
  <td width="50%">
    <h3 align="center">Trọ Uni</h3>
    <div align="center">
-<a href="https://github.com/quanns12/taranify_color" target="_blank">
+<a href="https://github.com/quanns12/QuanNS" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=quanns12&repo=taranify_color&theme=radical" alt="Taranify Color" />
 </a>
 <br>
 <br>
 <p>
-<a href="https://github.com/quanns12/taranify_color" target="_blank">
+<a href="https://github.com/quanns12/QuanNS" target="_blank">
  <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
 </a>
 <a href="https://tro-uni.vercel.app" target="_blank">
@@ -83,19 +83,19 @@ challenge: "I am doing the #100DaysOfCode challenge focused on frontend with Jav
 </a>
 </p>
 <p><strong>React • Tailwind • TypeScript</strong></p>
-<p>Ứng dụng gợi ý món ăn và nhà hàng phù hợp với tâm trạng người dùng dựa trên phân tích màu sắc.</p>
+<p>Ứng dụng giúp, hỗ trợ cho tân sinh viên thuê trọ</p>
 </div>
  </td>
  <td width="50%">
    <h3 align="center">🐟 Koi Veterinary Service</h3>
    <div align="center">
-     <a href="https://github.com/quanns12/SE1872_KoiVeterinaryService" target="_blank">
+     <a href="https://github.com/nntruong112/Koi_Veterinary_FE.git" target="_blank">
        <img src="https://github-readme-stats.vercel.app/api/pin/?username=quanns12&repo=SE1872_KoiVeterinaryService&theme=radical" alt="Koi Veterinary Service" />
      </a>
      <br>
      <br>
      <p>
-       <a href="https://github.com/quanns12/SE1872_KoiVeterinaryService" target="_blank">
+       <a href="https://github.com/nntruong112/Koi_Veterinary_FE.git" target="_blank">
          <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
        </a>
      </p>
