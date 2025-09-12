@@ -14,7 +14,7 @@
 </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,ts,js,java,spring,mysql,postgres,mongodb,html,css,git,github,vscode&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,java,spring,html,css,git,github,vscode&theme=dark" alt="Tech Stack" />
 </p>
 
 <div align="center">
