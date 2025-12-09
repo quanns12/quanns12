@@ -48,8 +48,8 @@
 const quan = {
 pronouns: "he" | "him",
 code: [ "JavaScript", "HTML", "CSS"],
-tools: [ "SQL Server", "MongoDB", "JWT", "React", "Tailwind", "Jest"],
-architecture: ["RESTful API", "microservices", "event-driven", "design system pattern"],
+tools: [ "SQL Server", "JWT", "React", "Tailwind", "Jest"],
+architecture: ["RESTful API", "event-driven", "design system pattern"],
 techCommunities: {
 contributor: "Open Source",
 learner: "100DaysOfCode",
@@ -104,41 +104,7 @@ challenge: "I am doing the #100DaysOfCode challenge focused on frontend with Jav
    </div>
  </td>
 </tr>
-<tr>
- <td width="50%">
-   <h3 align="center">🧮 Math Util</h3>
-   <div align="center">
-     <a href="https://github.com/quanns12/math-util" target="_blank">
-       <img src="https://github-readme-stats.vercel.app/api/pin/?username=quanns12&repo=math-util&theme=radical" alt="Math Util" />
-     </a>
-     <br>
-     <br>
-     <p>
-       <a href="https://github.com/quanns12/math-util" target="_blank">
-         <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-       </a>
-     </p>
-     <p><strong>Java • Maven • GitHub Actions</strong></p>
-     <p>Thư viện mô phỏng toán học sử dụng JUnit & CI/CD</p>
-   </div>
- </td>
- <td width="50%">
-   <h3 align="center">🩺 Gender Healthcare System</h3>
-     <div align="center">
-       <a href="https://github.com/thepKz/gender-care" target="_blank">
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=thepKz&repo=gender-care&theme=radical" alt="Gender Healthcare System" />
-       </a>
-       <br><br>
-       <p>
-       <a href="https://github.com/thepKz/gender-care" target="_blank">
-       <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-       </a>
-       </p>
-       <p><strong>React • Node.js • TypeScript • MongoDB</strong></p>
-       <p>Hệ thống quản lý dịch vụ chăm sóc sức khỏe giới tính hiện đại và bảo mật, hỗ trợ người dùng trong việc đặt lịch, tư vấn và quản lý thông tin y tế cá nhân.</p>
-     </div>
- </td>
-</tr>
+
 </table>
 </div>
 
